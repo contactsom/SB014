@@ -1,0 +1,82 @@
+
+Incremental Operators ( ++ ): It increase the value by 1
+It only apply for variables not for constant.
+
+10++
+++10
+Why ?
+
+10+1 is equivalant to 10++ => Not true
+
+----------------------
+1. Pre Increment
+2. Post Increment
+
+x++ : Post Increment
+++x : Pre Increment
+
+POST : AFTRE
+PRE  : BEFORE
+
+----------------------
+1. Pre Decrement
+2. Post Decrement
+
+x-- : Post Decrement
+
+--x : Pre Decrement
+
+// I am still confused about the post and pre increment
+
+
+POST : AFTRE
+PRE  : BEFORE
+
+------------------------
+
+int x = 20;
+		
+System.out.println("Before Decrement Value of X is : "+x); // 20
+
+int y = ++(++x);
+		
+System.out.println("After Decrement Value of X is  : "+x); //
+		
+System.out.println("What is the Value of Y  : "+y); // 
+		
+		
+		
+int a = 10;
+
+a ++
+
+a + 1 	
+		
+is , "b++" equlas to "b+1" or not ? not equivalent 
+
+is , "b--" equlas to "b-1" or not ? not equivalent
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+

@@ -25,7 +25,18 @@ com.simplilearn.datatype
 
 
 
+1. What is JAR FIle 
+2. Why JAR file Required 
+3. How to create the JAR file 
 
+1. Right Click on the Project
+2. Find the "Export" option
+3. In search bar type "jar"
+4. Select the "Runnable JAR" file option
+5. Provide the Destination of the jar file in "Export Destination".
+6. Provide the NAME of the jar file
+7. Click on finish
+8. jar will be available in to Destination Place 
 
 
 

@@ -1,0 +1,52 @@
+Refer this website for conversion :
+
+https://www.rapidtables.com/convert/number/octal-to-decimal.html
+
+
+https://en.wikipedia.org/wiki/List_of_Unicode_characters
+
+
+1:
+int x = 10;
+
+2:
+int x = 006;
+
+3:
+int x = 0786; Max range of Octal in Unicode is : 0176	. Hence this is out of range Error
+
+4:
+int x = 0xFACE;
+
+5:
+int x = 0xBca;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
