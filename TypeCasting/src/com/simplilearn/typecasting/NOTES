@@ -1,0 +1,47 @@
+
+long Data Types (8 byte)
+
+-9,223,372,036,854,775,808 to +9,223,372,036,854,775,807
+
+
+float Data Types ( 4  byte)
+
+1.40239846 x 10-45 to 3.40282347 x 1038
+
+
+
+--------------------------------
+range of float >  than long
+-------------------------------
+
+sir than why the size of long is greater than float
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

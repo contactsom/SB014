@@ -1,0 +1,78 @@
+
+What is the name of College?
+
+String collegeName="DU";
+String collegeCity="Delhi";
+String collegeCountry="INDIA";
+
+BUT :
+
+Create the variable which hold the name of all students in this college ?
+
+What is the Array?
+
+
+
+int[] rollNumber = { 101, 21, 31, 41, 51, 61 };
+INDEX 			:	  0 , 1,   2,  3,  4,  5 
+SIZE            : 6
+
+1st Element exist at INDEX - 0
+2nd Element exist at INDEX - 1
+3rd Element exist at INDEX - 2
+4th Element exist at INDEX - 3
+5th Element exist at INDEX - 4
+5th Element exist at INDEX - (5-1)
+.............................
+.............................
+Nth Element exist at INDEX - (N-1)
+
+SIZE :
+	6 = 5 + 1
+	6 = [index of last Element] + 1
+	
+	Size of Array = [index of last Element] + 1
+
+
+
+		int[] rollNumber = {101,21,31,41,51,61,"Prashik"}; // ERROR
+		String[] studentName= {"Mahesh Mane","Amisha","chetan","vaibhav","Rajpal yadav",101};// ERROR
+		String[] studentName= {"Mahesh Mane","Amisha","chetan","vaibhav","Rajpal yadav","101"};// NO ERROR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
