@@ -1,0 +1,61 @@
+1. There are two types of Constructor
+	1. Default/ No-Argument  Constructor 
+	2. Parameterized/Argument Constructor
+	
+	
+WHat is the use of both the Constructor?
+
+1. What Constructor Does ?
+	1. Create the Object
+	2. Initialized the value for Variables 
+	
+	
+	
+	
+
+public class Teacher {
+
+	public String teacherName;
+
+		public Teacher() {
+			super();
+		}
+}	
+	
+	
+public class TeacherMain {
+
+		public static void main(String[] args) {
+		
+		Teacher teacher = new Teacher();
+		
+		
+		}
+
+}	
+	
+Q : Is JVM Creating the Default Constructor or not ? NO
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

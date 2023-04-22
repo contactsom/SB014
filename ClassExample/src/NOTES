@@ -1,0 +1,52 @@
+I have doubt other than teaching. As I'm not getting the recording of sessions where can I find?
+
+If your class is declared as public , which means you can access from anywhere .
+
+What is the Meaning of "access from anywhere" ?
+
+access from anywhere depends up on "Package Level"
+
+What is the Meaning of "Package Level" ?
+	1. Within the Package
+	2. Out Side the Package
+
+
+How to Create the Object of Class ?
+1. Using "new" key word
+
+Example :
+	Class Employee {}
+	
+Syntex :
+	ClassName objectName = new classConstructor();
+Ex :
+	Employee  employee  = new Employee();
+	
+	
+	Class Student {}
+	
+Create the Object of Student Class :
+	Student student = new Student();
+	Student rajpal = new Student();
+	Student amisha = new Student();
+	Student mahesh = new Student();
+	
+	
+	
+>> For any class is access modifire is not mentioned  or defined then,
+>> By default you need to understand that, that is default class only. 	
+
+
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,109 @@
+
+int a = 10;
+int b = 20;
+
+
+if (a=b){
+
+	System.out.println("a is equal to b");
+
+}else{
+
+	System.out.println("a is NOT equal to b");
+}
+
+-------------------------------------------
+Quiz 1:
+
+	if (true){
+			
+	}
+
+o/p- valid 
+
+-------------------------------------------
+Quiz 2:
+
+	if (false){
+			
+	}
+
+o/p- valid 
+
+-------------------------------------------
+Quiz 3:
+
+	if (true){
+	
+			System.out.println("I am True");
+	}
+
+o/p- valid 
+
+-------------------------------------------
+Quiz 4:
+
+	if (false){
+			
+			System.out.println("I am True");
+	}
+
+o/p- valid 
+
+-------------------------------------------
+Quiz 5:
+
+	if (true)
+	int x = 10;
+	
+
+o/p- valid 
+
+-------------------------------------------
+Quiz 6:
+
+	if (true);
+	
+
+o/p- valid 
+
+
+
+
+
+
+
+
+thisnumber = 100;
+
+"thisnumber" is less than  101
+"thisnumber" is grater than  90
+"thisnumber" is equal to  100
+"thisnumber" is grater than  90 and less than 101
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
