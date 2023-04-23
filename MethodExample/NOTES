@@ -1,0 +1,88 @@
+
+
+Can't we directly place lab4.getSum(101,21) inside System.out.println() itself??
+
+can we write print statement in main()?
+
+now you can create a method to multiply two numbers
+
+can we use the same variable c in place of output?
+
+
+
+------------------------------------------------------
+
+College management System:(Christ University)
+
+Course :
+	B.Tech(M)
+	B.Tech(E)
+	B.Tech(chemical)
+	B.Tech(CS)
+	B.Tech(Civil)
+		*B.Tech(AI)
+		*B.Tech(Robotics)
+
+Note : * Will launch soon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Static method is not attached with Object - True
+
+Static method is attached with only Class  - True
+
+
+Access Modifier against 
+	1. Class
+	2. Method
+	3. Variable - TODO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
