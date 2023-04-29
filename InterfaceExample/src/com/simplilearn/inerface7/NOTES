@@ -1,0 +1,4 @@
+
+Case -3
+If two interface contains a method with same signature but different return types
+ than it is impossible to implement both interface at at time .

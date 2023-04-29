@@ -1,0 +1,65 @@
+INTERFACE:
+
+INTERCACE === SRS
+SRS -> Is not taking about any Implementation - Agree
+SRS -  is the Agreement  
+INTERCACE -  is the Agreement  
+
+
+1.
+public interface College {
+
+	 void getAdmissionForBtechMachenacial();
+	 void getAdmissionForBtechEc();
+	 void getAdmissionForBtechCS();
+	 void getAdmissionForBtechAI();
+	
+}
+O/P- Valid or Not valid 
+
+
+what do you mean by abstract method ?
+
+
+If any method is abstract then its corresponding class must be abstract.
+At present if I do not have the implementation for the method , then we can declare that method as "abstract" 
+
+
+
+Can not be :
+Variable :
+	1. Private
+	2. Protected 
+	3. <default>
+	4. transiant 
+	5. volatile
+Method :
+	1. private 
+	2. Protected
+	3. <default>
+	4. final
+	5. static
+	6. strictfp
+
+
+
+
+
+extends Vs Implements
+Class       Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

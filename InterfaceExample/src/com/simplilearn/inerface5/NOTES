@@ -1,0 +1,4 @@
+
+Case -1
+If two interface contains a method with same signature & same return type in the implementation class ,
+we can provide implementation for only one method

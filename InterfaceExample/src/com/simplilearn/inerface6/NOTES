@@ -1,0 +1,4 @@
+
+Case -2
+If two interfaces contains a method with same name but different argument then, in the implementation class
+We have to provide implementation for both methods & hence methods are considered as overloaded methods
