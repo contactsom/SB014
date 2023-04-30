@@ -1,0 +1,64 @@
+What is the Method Overriding ?
+Rule :
+1. Two methods are said to be  overridden , IFF ...
+	1.1 Methods Name are SAME
+	1.2 Methods Argument are SAME
+	1.3 Methods Return Type are SAME untill JAVA 1.4 
+		But from   JAVA 1.5 onwards - Co-Varient Returns Type Allowed
+	
+
+
+What is the Co-Varient Returns?
+
+
+	PARENT CLASS Method RETURN TYPE  - java.lang.Object (Object is the Super class for all the classes in java )
+	Child  CLASS Method RETURN TYPE  - java.lang.String 
+	
+	PARENT CLASS Method RETURN TYPE  - java.lang.Number
+	Child  CLASS Method RETURN TYPE  - java.lang.Integer
+	
+	
+	PARENT CLASS RETURN TYPE  - java.lang.String 
+	Child  CLASS RETURN TYPE  - java.lang.Object      - This is not Co-Varient Return Type
+	
+	PARENT CLASS RETURN TYPE  - java.lang.Double
+	Child  CLASS RETURN TYPE  - java.lang.Integer     - This is not Co-Varient Return Type
+	
+	
+	
+Overriding Not Applicable for ::
+1. private method can't	Override
+	
+	
+
+Observation :
+1. Overriding is possible between two class or interface
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

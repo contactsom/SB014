@@ -1,0 +1,12 @@
+What is the Method Overloading ?
+Rule :
+1. Two methods are said to be  overloaded, IFF ...
+	1.1 Methods Name are SAME
+	1.2 Methods Argument are Different
+	
+	
+	public void getAdd(float a , int b){}
+	
+	public void getAdd(int b, float a){}
+	
+	

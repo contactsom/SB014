@@ -1,0 +1,13 @@
+
+Relationship :
+
+	1. IS - A Relationship  i.e extends
+	2. HAS - A Relationship 
+
+
+
+MotorCycle "is A" two wheeler vehicle
+
+CAR "is A" Four wheeler vehicle
+
+two wheeler vehicle

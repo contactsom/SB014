@@ -1,0 +1,54 @@
+Encapsulation Rule :
+1. A Class is said to be highly encapsulated iff every data member declared in the class is "private".
+2. setter and getter method should not be there other than "private".
+
+
+setterMethod()- Which will help you to set the data 
+getterMethod()- Which will help you to get the data
+
+
+Class A {
+
+	private int a = 0;
+	
+
+}
+
+Class B extends A {
+
+	int c = 90;
+
+}
+
+Class C extends A{
+
+	private int d = 20;
+
+}
+
+
+Data Hiding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
