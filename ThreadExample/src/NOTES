@@ -1,0 +1,12 @@
+What is the Thread.
+
+
+PRIORITY OF THREAD :
+
+1. MIN_PRIORITY  : 1
+2. MAX_PRIORITY  : 10
+3. NORM_PRIORITY : 5
+
+Two Way to Create the Thread :
+	1. By Extending the Thread Class
+	2. By Implementing the Runnable Interface

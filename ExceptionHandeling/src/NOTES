@@ -1,0 +1,232 @@
+Exception Handling :
+
+
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+
+	at com.simplilearn.exceptionhandelinng.Lab1.main(Lab1.java:9)
+	
+	
+	Risky Code :
+	
+	Where you have dependency on External source .
+	
+	1. You are writing a code to get the data from DB.
+	ERROR : DB is not found .
+	
+	2. You are writing a code to get the data from FILE.
+	ERROR : FILE is not found .
+	
+	
+	you login into FB
+	user name/Password 
+	
+	Either you enter wrong User name or password 
+	
+	
+	TODO :
+	
+	
+
+	
+	
+	Hacker           Developer 
+	
+	
+			SYSYEM
+	
+	
+1. Try with Catch 
+
+		try {
+		
+
+		} catch (Exception e) {
+			
+		
+		}
+	
+	
+2. Try with Multi Catch 
+
+		try {
+		
+			// problem 
+
+		} catch (Exception e) {
+			
+			// can not handle here 
+		
+		}catch (Exception e) {
+			
+			// can not handle here 
+		
+		}catch (Exception e) {
+			
+			// can not handle here 
+		
+		}catch (Exception e) {
+			
+			// can not handle here 
+		
+		}catch (Exception e) {
+			
+			// can not handle here 
+		
+		}
+		
+3. Try ,Catch  and Finally
+
+		try {
+		
+			// problem 
+
+		} catch (Exception e) {
+			
+			// can not handle here 
+		
+		} finally {
+			
+			// can not handle here 
+		
+		}
+		
+	
+***************************************************************************
+1.
+try {
+
+}catch ( XXX e){
+
+}
+
+Valid 
+
+----------------------------
+2.
+try {
+
+}catch ( XXX e){
+
+}
+catch ( XXX e){
+
+}
+
+Valid 
+----------------------------
+3.
+try {
+
+}
+
+Not valid 
+
+----------------------------
+4.
+try {
+
+}finally {
+
+}
+
+valid 
+
+----------------------------
+5.
+finally {
+
+}
+
+Not valid 
+
+----------------------------
+6.
+
+try {
+
+}catch ( XXX e){
+
+}
+catch ( XXX e){
+
+}finally {
+
+}
+
+valid 
+
+
+----------------------------
+7.
+
+try {
+
+}catch ( XXX e){
+
+}
+catch ( XXX e){
+
+}finally {
+
+}finally {
+
+}
+
+Not valid 
+
+----------------------------
+7.
+
+try {
+
+	}
+finally {
+
+	}
+catch ( XXX e){
+	
+	}
+
+Not valid 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
