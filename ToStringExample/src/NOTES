@@ -1,0 +1,26 @@
+in object Class we have 11 Methods.
+1. toString();
+2. hashCode();
+3. public boolean equals(object o);
+	bydefault this method is doing the referaance/address comparesion .
+
+
+
+Relation between HashCode and equals Methods ?
+1. If equals method of two object return "true", then hashCode Value must be same.
+But reverse may not always true.
+
+
+public String toString(){
+
+
+	return getClass().getName()+'@'+Integer.toHaxString(hashCode());
+
+	//com.simplilearn.tostring.Student@15db9742
+	
+}
+
+
+
+
+Multithreading uses in real time projects where we use what kind of interview questions asks in interview for 2-3 experience person 
